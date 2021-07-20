@@ -1,0 +1,8 @@
+__pycache__/
+
+Pregunta 1/*.py
+
+.ipynb_checkpoints/
+
+Pregunta 2/private_key.txt
+Pregunta 2/public_key.txt
